@@ -6,9 +6,9 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Orange',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/orangesmeme/orangesmeme.github.io',
 			},
 			sidebar: [
 				{

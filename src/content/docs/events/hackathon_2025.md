@@ -7,6 +7,8 @@ description: The first ORA Hackathon.
 
 The ORA Hackathon 2025 is a community event to promote the development of projects and applications that involve the ORA asset on Algorand. The hackathon is open to developers, designers, and creators who want to build something cool and innovative using ORA and Algorand. 
 
+We welcome interested parties to join the [DAORA Discord](https://discord.com/invite/bmEc4y6e7C) to discuss ideas, ask questions, and collaborate with others.  
+
 We're excited to see what you come up with! 
 
 ## Requirements
@@ -31,10 +33,17 @@ We're excited to see what you come up with!
 * 1-2 weeks (depends on number of entrants)
 * Scoring: Half user votes, half voting committee votes
 
+### Judging Committee
+
+* [@grzracz](https://x.com/grzracz) - Founder of [Vestige](https://vestige.fi) and creator of [ORA](https://oranges.meme)
+* [@d13_co](https://x.com/d13_co) - Core Engineering Lead [@AlgoFoundation](https://x.com/AlgoFoundation)
+* [@bitshiftmod](https://x.com/bitshiftmod) - ORA Community Member and Developer
 
 ## Prizes
 
 * 1st, 2nd, 3rd: ORA 
 * All qualifying participants: Share of partner prize pools
+ 
+
 
 

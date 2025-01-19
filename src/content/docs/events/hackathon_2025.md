@@ -29,6 +29,11 @@ We're excited to see what you come up with!
 * Feb 1-28th: Time for groups or solo devs to develop their ideas and project and submit for the hackathon. 
 * March 1-15th: Time for judges and community to review and vote on the projects.
 
+## Submissions
+
+Please proceed to the [ORA Hackathon 2025 Submission Repository](https://github.com/orangesmeme/ora-hackathon-2025) to enter submissions in the issue tracker. You're encouraged to add your submissions early and note if you are open for collborations. 
+
+
 ## Judging
 * 1-2 weeks (depends on number of entrants)
 * Scoring: Half user votes, half voting committee votes

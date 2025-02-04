@@ -7,6 +7,7 @@ import { Image } from "astro:assets";
 import { Card, CardGrid } from "@astrojs/starlight/components";
 import hackathonImage from "./ora_hackathon_2025.jpeg";
 import moojLogo from "./MOOJ_Logo_whiteoutline-CCz8IbF5.png";
+import compxLogo from "./compx.svg";
 
 <Image
   src={hackathonImage}
@@ -66,13 +67,19 @@ Please proceed to the [ORA Hackathon 2025 Submission Repository](https://github.
 
 Thank you very much our Hackathon sponsors for supporting Algorand Developers and this event:
 
-<div class="flex justify-center w-full">
-  <div class="flex flex-col items-center justify-center p-4 text-center max-w-96 leading-3">
-    [<Image src={moojLogo} alt="Sponsors" class="size-32" />](https://moonjuicealgo.site/)
+<div class="grid md:grid-cols-2 w-full">
+
+  <div class="flex flex-col items-center p-4 text-center max-w-96 [&>*]:m-0">
+    [<Image src={moojLogo} alt="Moon Juice (MOOJ)" class="size-32" />](https://moonjuicealgo.site/)
     <div class="font-bold text-2xl">Moon Juice (MOOJ)</div>
     <div>The Deflationary Hold-to-Earn ASA.</div>
-    <div>
-      Learn more at [https://moonjuicealgo.site/](https://moonjuicealgo.site/)!
-    </div>
+    <div style={{ marginTop: "0 !important" }}>Learn more at [https://moonjuicealgo.site/](https://moonjuicealgo.site/)!</div>
+  </div>
+
+  <div class="flex flex-col items-center p-4 text-center max-w-96" style={{ marginTop: "0 !important" }}>
+    <div class="bg-white">[<Image src={compxLogo} alt="CompX" class="size-32" />](https://compx.io/)</div>
+    <div class="font-bold text-2xl">CompX</div>
+    <div>Powering the next DeFi revolution.</div>
+    <div style={{ marginTop: "0 !important" }}>Learn more at [https://compx.io/](https://compx.io/)!</div>
   </div>
 </div>
